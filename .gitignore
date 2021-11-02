@@ -1,5 +1,5 @@
 # hidden files
-.*
+.github
 !.git*
 !.editorconfig
 !.nojekyll
