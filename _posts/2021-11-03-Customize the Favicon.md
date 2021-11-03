@@ -1,9 +1,9 @@
 ---
 title: TTTTEEESSSTTT
-author: Cotes Chung
+author: Zemul
 date: 2021-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+categories: [Test]
+tags: [Test]
 ---
 
 The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
